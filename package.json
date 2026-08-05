@@ -1,0 +1,25 @@
+{
+  "name": "crimson-board",
+  "version": "1.0.0",
+  "description": "----",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqra16200950-dev/Crimson-Board.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/iqra16200950-dev/Crimson-Board/issues"
+  },
+  "homepage": "https://github.com/iqra16200950-dev/Crimson-Board#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
