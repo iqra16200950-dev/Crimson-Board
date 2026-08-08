@@ -12,7 +12,7 @@ body{
     background:radial-gradient(circle at center,
 #4a3426,#1c1511 80%);
     font-family:"Cormorant Garamond",serif;
-    color:#f8f3e9
+    color:black
 }
 
 #dustCanvas{
@@ -43,7 +43,7 @@ body{
 
     .journal{
         width:760px;
-        background:#efe3cb;
+        background:#9A7B4F;
         padding:70px;
         border-radius:8px;
         box-shadow: 0 40px 100px rgba(0,0,0,.55);
